@@ -1,0 +1,126 @@
+## Changelog for UMP
+### 14/02/2019 - v0.1
+Initial release, contains only official Westwood maps.
+
+Maps (121 total):
+- [2] A Hill Between
+- [2] Alaskan Oil Spill
+- [2] Blood Feud
+- [2] Deadman's Ridge
+- [2] Dune Patrol
+- [2] Dustbowl
+- [2] El Dorado
+- [2] Hail Mary
+- [2] Happy Trails
+- [2] Hidden Valley
+- [2] Isle of War
+- [2] Let There Be Fight
+- [2] Little Big Lake
+- [2] Little Piece of Dune
+- [2] Loaded Barrel
+- [2] May Day
+- [2] Meat Grinder
+- [2] New Heights
+- [2] Official Tournament Map A
+- [2] Official Tournament Map B
+- [2] Pitch Point
+- [2] River Rampage
+- [2] Sahara Mirage
+- [2] Sovereign Land
+- [2] The Alamo
+- [2] Twin Peaks
+- [2] Urban Rush
+- [3] Breakaway
+- [3] Canyon Fodder
+- [3] Cold War
+- [3] Killer Instinct
+- [3] Top of the Hill
+- [3] Yuri's Plot
+- [4] Anytown, Amerika
+- [4] Arena
+- [4] Austin, TX
+- [4] Brink of Disaster
+- [4] Carville's Convoy
+- [4] City Under Siege
+- [4] Country Swing
+- [4] DC Uprising
+- [4] Death Valley Girl
+- [4] Deep Freeze
+- [4] Depth Charge
+- [4] Double Trouble
+- [4] Downtown, Cityville
+- [4] Dry Heat
+- [4] Face Down
+- [4] Four Corners
+- [4] Frostbite
+- [4] Golden State Freeway
+- [4] Ground Zero
+- [4] Hammer and Sickle
+- [4] Head for the Hills
+- [4] Heartland
+- [4] Invasion Confirmed
+- [4] Isle of Oades
+- [4] Lake Blitzen
+- [4] Lost Lake
+- [4] Manhattan Mayhem
+- [4] Montana DMZ
+- [4] Moon Patrol
+- [4] Mount Olympus
+- [4] No Rest for the Wicked
+- [4] No Wimps
+- [4] Oceanside
+- [4] Offense Defense
+- [4] Official Tournament Map
+- [4] Otters Revenge
+- [4] Pacific Heights
+- [4] Paris Revisited
+- [4] Rockets Red Glare
+- [4] Roundhouse Kick
+- [4] Rush Hour
+- [4] Sea of Isolation
+- [4] Shrapnel Mountain
+- [4] Sink or Swim
+- [4] Sinkhole
+- [4] Snow Valley
+- [4] Snowball's Chance
+- [4] South Pacific
+- [4] Tanya's Training Grounds
+- [4] The Spirit of Mojo One
+- [4] Tower of Power
+- [4] Tsunami
+- [4] Turf War
+- [4] Valley of Gems
+- [5] Mount Rush More
+- [6] Arena 33 Forever
+- [6] Army of the Potomac
+- [6] Bay of Pigs
+- [6] Bering Strait
+- [6] Bermuda Triangle
+- [6] Bridging the Gap
+- [6] DEFCON 6
+- [6] East vs Best
+- [6] High Explosive Round
+- [6] Ice Age
+- [6] Islands of the Land
+- [6] Kalifornia
+- [6] Malibu Cliffs
+- [6] Monument Valley
+- [6] Sedona Pass
+- [6] Siberian Wastes
+- [6] Streets of Gold
+- [6] Tour of Egypt
+- [6] Transylvania Trouble
+- [6] Triple Crossed
+- [6] Unrepent
+- [6] Wild Animal Park
+- [8] A Path Beyound II
+- [8] Arctic Circle
+- [8] Death Trap
+- [8] Heck Freezes Over
+- [8] Irvine, California
+- [8] Monster Movie
+- [8] Near Ore Far
+- [8] Powder Keg
+- [8] Russian Roulette
+- [8] Territorial Imperative
+- [8] Trailer Park
